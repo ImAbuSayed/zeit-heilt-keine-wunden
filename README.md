@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zeit-heilt-keine-wunden/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Zeit heilt keine Wunden](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-heilt-keine-wunden/) |
+| **Get License** | [Music Rights & Licensing for Zeit heilt keine Wunden](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-heilt-keine-wunden/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt ist laut, doch ich hör' nur deinen Namen, Bae
+> Schwarzer Benz, Lichter fliegen, ich bin auf dem Weg
+> Lass uns fliehen aus dem Club, scheiß auf all die ander'n hier
+> Deine Blicke machen süchtig, komm, wir heben ab mit mir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
