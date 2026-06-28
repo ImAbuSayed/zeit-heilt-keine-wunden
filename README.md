@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zeit-heilt-keine-wunden/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Zeit heilt keine Wunden](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-heilt-keine-wunden/) |
+| **Get License** | [Get License For Zeit heilt keine Wunden](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-heilt-keine-wunden/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ec4c1f770ed117851fcd2bf9bb5f44b91bcd8d55912cb3a78723f579d0cbd40a` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
